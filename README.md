@@ -14,6 +14,7 @@
 - 解釋
 
 ---
+<img width="527" height="342" alt="螢幕擷取畫面 2026-05-19 114948" src="https://github.com/user-attachments/assets/71a998cb-e6ed-499e-ba30-e1416e1c6294" />
 
 ## 開發環境
 
